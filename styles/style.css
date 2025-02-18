@@ -1,0 +1,4 @@
+h1 {color:red;font-family: verdana;}
+li > a{color: aqua;}
+.boton {background-color: blueviolet;}
+.boton:hover{background-color: chocolate;}
